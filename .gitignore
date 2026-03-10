@@ -1,10 +1,3 @@
-/.idea
-log4j2.xml
-downloads/
-saves/
-usercache.json
-usernamecache.json
-local/
 # logs shit
 logs/
 crash-reports/
@@ -26,4 +19,21 @@ kubejs/client_scripts/main.js
 kubejs/startup_scripts/main.js
 kubejs/README.txt
 kubejs/server_scripts/main.js
+
+#config shit
+config/tweakeroo.json
+config/minihud.json
+# config/Mekanism/client.toml
+
+/.idea
+log4j2.xml
+downloads/
+saves/
+usercache.json
+usernamecache.json
+local/
 command_history.txt
+
+
+
+options.txt
