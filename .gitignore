@@ -20,10 +20,17 @@ kubejs/startup_scripts/main.js
 kubejs/README.txt
 kubejs/server_scripts/main.js
 
-#config shit
+# config shit
 config/tweakeroo.json
 config/minihud.json
+config/minihud/
 config/Mekanism/client.toml
+config/sound_physics_remastered
+config/itemscroller.json
+config/malilib.json
+
+
+
 
 /.idea
 log4j2.xml
@@ -37,3 +44,4 @@ options.txt
 
 
 
+itemscroller/recipes_新的世界.nbt

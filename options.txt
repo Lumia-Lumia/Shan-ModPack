@@ -13,7 +13,6 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
-gamma:0.5
 graphicsMode:1
 guiScale:0
 maxFps:120
@@ -35,8 +34,8 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-showSubtitles:false
-directionalAudio:false
+showSubtitles:true
+directionalAudio:true
 touchscreen:false
 bobView:true
 toggleCrouch:false
@@ -180,11 +179,11 @@ key_pneumaticcraft.boots.jet_boots:key.keyboard.space
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.ftbultimine:key.keyboard.grave.accent
 key_ftbultimine.change_shape.next:key.keyboard.up
 key_ftbultimine.change_shape.prev:key.keyboard.down
