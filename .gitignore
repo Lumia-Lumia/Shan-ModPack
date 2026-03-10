@@ -23,7 +23,7 @@ kubejs/server_scripts/main.js
 #config shit
 config/tweakeroo.json
 config/minihud.json
-# config/Mekanism/client.toml
+config/Mekanism/client.toml
 
 /.idea
 log4j2.xml
@@ -33,7 +33,7 @@ usercache.json
 usernamecache.json
 local/
 command_history.txt
-
-
-
 options.txt
+
+
+
