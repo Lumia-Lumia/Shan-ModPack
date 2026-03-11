@@ -20,6 +20,12 @@ kubejs/startup_scripts/main.js
 kubejs/README.txt
 kubejs/server_scripts/main.js
 kubejs/config/common.json
+kubejs/config/probe-settings.json
+kubejs/client_scripts/jsconfig.json
+kubejs/server_scripts/jsconfig.json
+kubejs/startup_scripts/jsconfig.json
+
+
 
 # config shit
 config/tweakeroo.json
@@ -44,6 +50,7 @@ config/jade/sort-order.json
 config/jei/ingredient-list-mod-sort-order.ini
 config/jei/recipe-category-sort-order.ini
 
+# unoffical mods
 
 /.idea
 log4j2.xml
@@ -55,9 +62,8 @@ usernamecache.json
 local/
 command_history.txt
 options.txt
-
-
-
-itemscroller/recipes_新的世界.nbt
-
+itemscroller/
+.probe
+.vscode/
+config/jei/ingredient-list-mod-sort-order.ini
 
