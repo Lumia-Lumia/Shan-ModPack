@@ -8,7 +8,7 @@
 	quest_links: [ ]
 	quests: [{
 		icon: {
-			id: "anvilcraft:earth_core_shard"
+			id: "pneumaticcraft:compressed_stone"
 		}
 		id: "7095C2301B11C3C4"
 		tasks: [{

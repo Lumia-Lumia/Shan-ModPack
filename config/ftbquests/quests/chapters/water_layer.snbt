@@ -3,8 +3,14 @@
 	default_quest_shape: ""
 	filename: "water_layer"
 	group: "2433D3270A6AC07D"
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:textures/misc/underwater.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
 	id: "2AB632055ED2D585"
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
 	quests: [ ]
 }
