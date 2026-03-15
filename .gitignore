@@ -45,10 +45,8 @@ config/curios-server.toml
 config/flywheel-client.toml
 config/guideme.toml
 config/ponder-client.toml
-config/jade/plugins.json
-config/jade/sort-order.json
-config/jei/ingredient-list-mod-sort-order.ini
-config/jei/recipe-category-sort-order.ini
+config/jade/
+config/jei/
 config/inventoryprofilesnext/
 
 
@@ -67,6 +65,5 @@ options.txt
 itemscroller/
 .probe
 .vscode/
-config/jei/
-#fancymenu_data/last_world.fmdata
-#options.txt
+fancymenu_data/last_world.fmdata
+options.txt
