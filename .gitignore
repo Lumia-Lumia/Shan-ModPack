@@ -49,6 +49,8 @@ config/jade/plugins.json
 config/jade/sort-order.json
 config/jei/ingredient-list-mod-sort-order.ini
 config/jei/recipe-category-sort-order.ini
+config/inventoryprofilesnext/
+
 
 # unoffical mods
 
@@ -67,5 +69,5 @@ itemscroller/
 .vscode/
 config/jei/
 fancymenu_data/last_world.fmdata
-config/inventoryprofilesnext/
+
 
